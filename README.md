@@ -44,13 +44,13 @@ Random Forest Classifier was chosen for this task because:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/zee-rox/cricket.git
 cd cricket
 ```
 
 2. Install required dependencies:
 ```bash
-pip install fastapi uvicorn pandas scikit-learn numpy
+pip install requirements.txt
 ```
 
 ## Running the Server
