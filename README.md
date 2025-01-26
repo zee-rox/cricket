@@ -16,9 +16,9 @@ cricket/
 ├── src/
 │   ├── app.py
 │   └── eval_api.py
-    ├── model/
+│    ├── model/
 │       └── cricket_prediction_model.pkl
-    ├── notebooks/
+│    ├── notebooks/
 │       └── cricket_prediction.ipynb
 └── README.md
 ```
