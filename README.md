@@ -13,13 +13,13 @@ cricket/
 │   │   └── cricket_dataset_test.csv
 │   └── results/
 │       └── prediction_results_{timestamp}.csv
-├── model/
-│   └── cricket_prediction_model.pkl
-├── notebooks/
-│   └── cricket_prediction.ipynb
 ├── src/
 │   ├── app.py
 │   └── eval_api.py
+    ├── model/
+│       └── cricket_prediction_model.pkl
+    ├── notebooks/
+│       └── cricket_prediction.ipynb
 └── README.md
 ```
 
